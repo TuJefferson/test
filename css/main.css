@@ -1505,9 +1505,9 @@ nav {
   font-weight: 700; }
 
 .p1-gradient-bg, .primary-btn, .primary-btn:after, .primary-btn2:after, .callto-area, .callto-area .btn-white:hover, .footer-social a:hover, .generic-banner {
-  background-image: -moz-linear-gradient(0deg, #7a77ff 0%, #8cfe86 100%);
-  background-image: -webkit-linear-gradient(0deg, #7a77ff 0%, #8cfe86 100%);
-  background-image: -ms-linear-gradient(0deg, #7a77ff 0%, #8cfe86 100%); }
+  background-image: -moz-linear-gradient(0deg, #f36d00 0%, #ffe9c7 100%);
+  background-image: -webkit-linear-gradient(0deg, #f36d00 0%, #ffe9c7 100%);
+  background-image: -ms-linear-gradient(0deg, #f36d00 0%, #ffe9c7 100%); }
 
 .p1-gradient-color {
   background: -moz-linear-gradient(0deg, #7a77ff 0%, #8cfe86 100%);

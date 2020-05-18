@@ -514,6 +514,18 @@ mark,
   height: auto;
 }
 
+.header-logo{
+  top: 100%;
+  transform: translateY(-25%);
+  z-index: 501;
+}
+
+.img-logo {
+  
+  max-width: 10%;
+  height: auto;
+
+}
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
